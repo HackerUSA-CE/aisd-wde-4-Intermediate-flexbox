@@ -46,7 +46,9 @@ nav ul li a {
     color: white;
     text-decoration: none;
     font-weight: bold;
-}.hero {
+}
+
+.hero {
     text-align: center;
     padding: 2em 0;
     color: Black;
@@ -56,6 +58,7 @@ nav ul li a {
     justify-content: center; /* Centers content vertically */
     flex: 1; /* Allows the hero section to grow and take up available space */
 }
+
 .content {
     display: flex; /* Enables Flexbox on the content section */
     justify-content: space-between; /* Distributes space between content boxes */
