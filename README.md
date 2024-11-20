@@ -21,7 +21,7 @@ responsive_flexbox
    
    - [ ] Inside the `responsive_flexbox` folder, create a file named `index.html`. This will be your main HTML file.
    
-   - [ ] In the `responsive_flexbox` folder, create another file named `styles.css`. This file will contain the CSS used to style your HTML content.
+   - [ ] In the `responsive_flexbox` folder, create another file named `style.css`. This file will contain the CSS used to style your HTML content.
 
 ## 2. **Start with an HTML Boilerplate**
 Now that you have your files set up, start by adding the basic HTML5 boilerplate.
